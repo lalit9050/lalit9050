@@ -72,10 +72,6 @@ A production-ready food delivery platform with Razorpay payments, OTP delivery v
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalit9050&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalit9050&theme=tokyonight&hide_border=true" />
 </p>
 
