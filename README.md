@@ -15,7 +15,7 @@
 - 🎓 Final year **MCA student** passionate about building production-ready web apps
 - 💡 I enjoy solving real engineering problems — from debugging payment flows to real-time socket connections
 - 📫 Reach me at **[LinkedIn](https://linkedin.com/in/lalitlamba)**
-- 📍 Based in **Rohtak, Haryana, India**
+- 📍 Based in **Narnaul, Haryana, India**
 - 🔍 Currently looking for **Full Stack Developer / SDE roles**
 
 ---
@@ -50,9 +50,12 @@
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/lalit9050/rasmalai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalit9050&repo=rasmalai&theme=tokyonight" />
-</a>
+### 🍛 Rasmalai — Full Stack Food Delivery App
+> React · Redux · Node.js · Express · MongoDB · Socket.io · Razorpay
+
+A production-ready food delivery platform with Razorpay payments, OTP delivery verification, and real-time order tracking via Socket.io. Deployed live on Render.
+
+🔗 **[View Repository](https://github.com/lalit9050/rasmalai)** &nbsp;|&nbsp; 🌐 **[Live Demo](https://your-render-url.onrender.com)**
 
 <br/><br/>
 
