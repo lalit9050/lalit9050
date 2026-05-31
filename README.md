@@ -55,7 +55,7 @@
 
 A production-ready food delivery platform with Razorpay payments, OTP delivery verification, and real-time order tracking via Socket.io. Deployed live on Render.
 
-🔗 **[View Repository](https://github.com/lalit9050/rasmalai)** &nbsp;|&nbsp; 🌐 **[Live Demo](https://your-render-url.onrender.com)**
+🔗 **[View Repository](https://github.com/lalit9050/rasmalai)** &nbsp;|&nbsp; 🌐 **[Live Demo](https://rasmalai.onrender.com/)**
 
 <br/><br/>
 
